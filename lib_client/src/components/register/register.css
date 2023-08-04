@@ -1,0 +1,14 @@
+.registername{
+    border: 2px solid blue;
+}
+input{
+    border: none;
+    outline: none;
+    background: none;
+}
+.hrregbackcol{
+background-color: whitesmoke;
+}
+.weightsoftop{
+    font-size: 300%;
+}

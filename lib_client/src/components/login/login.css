@@ -1,0 +1,17 @@
+.logbag{
+    background-color: whitesmoke;
+}
+.usernam{
+   border: none;
+   outline: none;
+}
+input{
+    background: none;
+}
+.bors{
+    border: 2px solid blue;
+}
+.topclas{
+    color: cornflowerblue;
+    font-size: 500%;
+}
